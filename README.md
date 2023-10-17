@@ -1,4 +1,6 @@
-Oi eu sou o Gabriel Duarte ✌️
+Oi, sou o Gabriel Duarte ✌️
+tenho 15 anos. 
+moro em Maringá, Paraná.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_gabrieldf?igshid=NzZhOTFlYzFmZQ==)
 [![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duartebiel008@gmail.com)
